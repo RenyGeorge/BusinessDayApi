@@ -1,0 +1,27 @@
+[
+    {
+      "Name": "Christmas",
+      "Day": "25",
+      "Month": "12"
+    },
+    {
+      "Name": "New Year",
+      "Day": "1",
+      "Month": "1"
+    },
+    {
+      "Name": "Australia Day",
+      "Day": "26",
+      "Month": "1"
+    },
+    {
+      "Name": "Anzac Day",
+      "Day": "25",
+      "Month": "4"
+    },
+    {
+      "Name": "Boxing Day",
+      "Day": "26",
+      "Month": "12"
+    }
+  ]
